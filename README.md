@@ -1,6 +1,5 @@
 # Atlas
 Projet de robotique Polytech - Promotion ROB3 2023/2024
-
 <br>De DELFLY Agathe et MAUVOISIN Paul<br>
 
 <h2>Idée principale :</h2>

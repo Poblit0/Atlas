@@ -2,7 +2,7 @@
 Projet de robotique Polytech - Promotion ROB3 2023/2024
 <br>De DELFLY Agathe et MAUVOISIN Paul<br>
 
-<h2>Idée principale :</h2>
+<h2>Idée principale</h2>
     <p>Créer un robot d'entrepôt autonome capable de stocker et restituer des colis</p>
 
 <h2>Motivations</h2>

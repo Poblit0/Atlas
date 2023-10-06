@@ -20,7 +20,7 @@ Projet de robotique Polytech - Promotion ROB3 2023/2024
     <p>Le robot transporte les colis sur sa face supérieure, ce qui peut être considéré comme son dos</p>
     <p>Cette position nous rappelait le mythe d'Atlas qui portait la Terre sur son dos, d'où le choix de ce nom pour notre robot</p>
 
-<h2>Matériel :</h2>
+<h2>Matériel</h2>
     <ul>
         <li>???</li>
     </ul>

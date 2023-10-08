@@ -21,8 +21,17 @@ Projet de robotique Polytech - Promotion ROB3 2023/2024
     <p>Cette position nous rappelait le mythe d'Atlas qui portait la Terre sur son dos, d'où le choix de ce nom pour notre robot</p>
 
 <h2>Matériel</h2>
+    <p>Moteurs</p>
     <ul>
-        <li>???</li>
+        <li>2 (ou 3) servomoteurs SG90 - 180°</li>
+        <li>1 servomoteur SG90 - 360°</li>
+        <li>4 moteurs CC (à déterminer)</li>
+        <li>2 moteurs pas à pas (à déterminer)</li>
     </ul>
-
+    <p>Capteurs</p>
+    <ul>
+        <li>4 capteurs colorimétriques</li>
+        <li>2 capteurs ultrason</li>
+    </ul>
+    
 </body>

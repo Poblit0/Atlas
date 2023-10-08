@@ -33,5 +33,10 @@ Projet de robotique Polytech - Promotion ROB3 2023/2024
         <li>4 capteurs colorimétriques</li>
         <li>2 capteurs ultrason</li>
     </ul>
+    <p>CNC</p>
+    <ul>
+        <li>Impression 3D</li>
+        <li>Découpeuse laser</li>
+    </ul>
     
 </body>

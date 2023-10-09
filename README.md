@@ -10,8 +10,8 @@ Projet de robotique Polytech - Promotion ROB3 2023/2024
     <br>Les problématiques de ce robot semblent couvrir un large panel de fondamentaux : <br>
     <ul>
         <li>Un système de déplacement dans l’espace</li>
-	    <li>Un système de préhension capable de manipuler des articles</li>
-	    <li>Une mémoire contenant l’emplacement des articles enregistrés</li>
+	    <li>Un système de préhension capable de manipuler des colis</li>
+	    <li>Une mémoire contenant l’emplacement des colis enregistrés</li>
     </ul>
 </p>
 

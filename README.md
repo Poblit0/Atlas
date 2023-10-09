@@ -11,7 +11,6 @@ Projet de robotique Polytech - Promotion ROB3 2023/2024
     <ul>
         <li>Un système de déplacement dans l’espace</li>
 	    <li>Un système de préhension capable de manipuler des articles</li>
-	    <li>Un système de vision afin d'identifier les articles</li>
 	    <li>Une mémoire contenant l’emplacement des articles enregistrés</li>
     </ul>
 </p>

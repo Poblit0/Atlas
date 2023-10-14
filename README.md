@@ -3,15 +3,16 @@ Projet de robotique Polytech - Promotion ROB3 2023/2024
 <br>De DELFLY Agathe et MAUVOISIN Paul<br>
 
 <h2>Idée principale</h2>
-    <p>Créer un robot d'entrepôt autonome capable de stocker et restituer des colis grâce à Arduino</p>
+    <p>Créer des robots d'entrepôt autonomes capables de stocker et restituer des colis grâce à Arduino</p>
 
 <h2>Motivations</h2>
     <p>Ce premier projet a pour objectif de nous faire découvrir divers aspects de la robotique
-    <br>Les problématiques de ce robot semblent couvrir un large panel de fondamentaux : <br>
+    <br>Les problématiques de ce robot semblent couvrir un panel de fondamentaux : <br>
     <ul>
         <li>Un système de déplacement dans l’espace</li>
 	    <li>Un système de préhension capable de manipuler des colis</li>
 	    <li>Une mémoire contenant l’emplacement des colis enregistrés</li>
+        <li>Un système de communication pour échanger avec ses homologues</li>
     </ul>
 </p>
 
@@ -23,11 +24,12 @@ Projet de robotique Polytech - Promotion ROB3 2023/2024
     <p>Moteurs</p>
     <ul>
         <li>3 servomoteurs SG90 - 180°</li>
-        <li>2 moteurs CC (à déterminer)</li>
+        <li>2 moteurs CC - 6V et 40 rpm</li>
     </ul>
     <p>Capteurs</p>
     <ul>
         <li>4 capteurs colorimétriques</li>
+        <li>1 capteur de pression</li>
     </ul>
     <p>CNC</p>
     <ul>

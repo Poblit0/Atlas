@@ -20,20 +20,19 @@ Projet de robotique Polytech - Promotion ROB3 2023/2024
     <p>Le robot transporte les colis sur sa face supérieure, ce qui peut être considéré comme son dos</p>
     <p>Cette position nous rappelait le mythe d'Atlas qui portait la Terre sur son dos, d'où le choix de ce nom pour notre robot</p>
 
-<h2>Matériel</h2>
+<h2>Matériel (par robot)</h2>
     <p>Moteurs</p>
     <ul>
-        <li>3 servomoteurs SG90 - 180°</li>
-        <li>2 moteurs CC - 6V et 40 rpm</li>
+        <li>2 servomoteurs</li>
+        <li>2 moteurs CC</li>
     </ul>
     <p>Capteurs</p>
     <ul>
         <li>4 capteurs colorimétriques</li>
-        <li>1 capteur de pression</li>
     </ul>
     <p>Modules</p>
     <ul>
-        <li>2 modules de communciations RF</li>
+        <li>1 module de communciations RF</li>
     </ul>
     <p>CNC</p>
     <ul>

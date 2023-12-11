@@ -45,10 +45,5 @@ Projet de robotique Polytech - Promotion ROB3 2023/2024
 	<li>1 boîtier d'alimentation</li>
 	<li>1 roulette à billes</li>
     </ul>
-    <p>CNC</p>
-    <ul>
-        <li>Impression 3D</li>
-        <li>Découpeuse laser</li>
-    </ul>
     
 </body>

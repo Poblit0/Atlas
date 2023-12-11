@@ -21,6 +21,11 @@ Projet de robotique Polytech - Promotion ROB3 2023/2024
     <p>Cette position nous rappelait le mythe d'Atlas qui portait la Terre sur son dos, d'où le choix de ce nom pour notre robot</p>
 
 <h2>Matériel (par robot)</h2>
+    <p>Carte électronique</p>
+    <ul>
+        <li>1 carte Arduino UNO</li>
+	<li>1 pont en H</li>
+    </ul>
     <p>Moteurs</p>
     <ul>
         <li>2 servomoteurs</li>
@@ -28,11 +33,17 @@ Projet de robotique Polytech - Promotion ROB3 2023/2024
     </ul>
     <p>Capteurs</p>
     <ul>
-        <li>4 capteurs colorimétriques</li>
+        <li>5 capteurs IR</li>
     </ul>
     <p>Modules</p>
     <ul>
         <li>1 module de communciations RF</li>
+    </ul>
+    <p>Matériels complémentaires</p>
+    <ul>
+        <li>1 interrupteur</li>
+	<li>1 boîtier d'alimentation</li>
+	<li>1 roulette à billes</li>
     </ul>
     <p>CNC</p>
     <ul>

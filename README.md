@@ -17,32 +17,26 @@ Les problématiques de ce robot semblent couvrir un panel de fondamentaux :
 
 
 ## Origine du nom
-    Le robot transporte les colis sur sa face supérieure, ce qui peut être considéré comme son dos
+Le robot transporte les colis sur sa face supérieure, ce qui peut être considéré comme son dos
     
-    Cette position nous rappelait le mythe d'Atlas qui portait la Terre sur son dos, d'où le choix de ce nom pour notre robot
+Cette position nous rappelait le mythe d'Atlas qui portait la Terre sur son dos, d'où le choix de ce nom pour notre robot
 
 ## Matériel (par robot)
-    <p>Carte électronique</p>
-    <ul>
-        <li>1 carte Arduino UNO</li>
-	<li>1 pont en H</li>
-    </ul>
-    <p>Moteurs</p>
-    <ul>
-        <li>2 servomoteurs</li>
-        <li>2 moteurs CC</li>
-    </ul>
-    <p>Capteurs</p>
-    <ul>
-        <li>5 capteurs IR</li>
-    </ul>
-    <p>Modules</p>
-    <ul>
-        <li>1 module de communciations RF</li>
-    </ul>
-    <p>Matériels complémentaires</p>
-    <ul>
-        <li>1 interrupteur</li>
-	<li>1 boîtier d'alimentation</li>
-	<li>1 roulette à billes</li>
-    </ul>
+### Carte électronique
+- 1 carte Arduino UNO
+- 1 pont en H
+
+### Moteurs
+- 2 servomoteurs
+- 2 moteurs CC
+  
+### Capteurs
+- 5 capteurs IR
+
+### Modules
+- 1 module de communciations RF
+
+### Matériels complémentaires
+- 1 interrupteur
+- 1 boîtier d'alimentation
+- 1 roulette à billes

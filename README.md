@@ -1,12 +1,13 @@
 # MiniAtlas
 Projet de robotique Polytech - Promotion ROB3 2023/2024
-<br>De DELFLY Agathe et MAUVOISIN Paul<br>
 
-<h2>Idée principale</h2>
-    <p>Créer des robots d'entrepôt autonomes capables de stocker et restituer des colis grâce à Arduino</p>
+De DELFLY Agathe et MAUVOISIN Paul
 
-<h2>Motivations</h2>
-    <p>Ce premier projet a pour objectif de nous faire découvrir divers aspects de la robotique
+## Idée principale
+Créer des robots d'entrepôt autonomes capables de stocker et restituer des colis grâce à Arduino
+
+## Motivations
+    Ce premier projet a pour objectif de nous faire découvrir divers aspects de la robotique
     <br>Les problématiques de ce robot semblent couvrir un panel de fondamentaux : <br>
     <ul>
         <li>Un système de déplacement dans l’espace</li>
@@ -16,11 +17,12 @@ Projet de robotique Polytech - Promotion ROB3 2023/2024
     </ul>
 </p>
 
-<h2>Anecdote</h2>
-    <p>Le robot transporte les colis sur sa face supérieure, ce qui peut être considéré comme son dos</p>
-    <p>Cette position nous rappelait le mythe d'Atlas qui portait la Terre sur son dos, d'où le choix de ce nom pour notre robot</p>
+## Origine du nom
+    Le robot transporte les colis sur sa face supérieure, ce qui peut être considéré comme son dos
+    
+    Cette position nous rappelait le mythe d'Atlas qui portait la Terre sur son dos, d'où le choix de ce nom pour notre robot
 
-<h2>Matériel (par robot)</h2>
+## Matériel (par robot)
     <p>Carte électronique</p>
     <ul>
         <li>1 carte Arduino UNO</li>
@@ -45,5 +47,3 @@ Projet de robotique Polytech - Promotion ROB3 2023/2024
 	<li>1 boîtier d'alimentation</li>
 	<li>1 roulette à billes</li>
     </ul>
-    
-</body>

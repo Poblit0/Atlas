@@ -7,15 +7,14 @@ De DELFLY Agathe et MAUVOISIN Paul
 Créer des robots d'entrepôt autonomes capables de stocker et restituer des colis grâce à Arduino
 
 ## Motivations
-    Ce premier projet a pour objectif de nous faire découvrir divers aspects de la robotique
-    <br>Les problématiques de ce robot semblent couvrir un panel de fondamentaux : <br>
-    <ul>
-        <li>Un système de déplacement dans l’espace</li>
-	    <li>Un système de préhension capable de manipuler des colis</li>
-	    <li>Une mémoire contenant l’emplacement des colis enregistrés</li>
-        <li>Un système de communication pour échanger avec ses homologues</li>
-    </ul>
-</p>
+Ce premier projet a pour objectif de nous faire découvrir divers aspects de la robotique
+
+Les problématiques de ce robot semblent couvrir un panel de fondamentaux :
+- Un système de déplacement dans l’espace
+- Un système de préhension capable de manipuler des colis
+- Une mémoire contenant l’emplacement des colis enregistrés
+- Un système de communication pour échanger avec ses homologues
+
 
 ## Origine du nom
     Le robot transporte les colis sur sa face supérieure, ce qui peut être considéré comme son dos

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="160mm"
+   height="250mm"
+   viewBox="0 0 160 249.99999"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="Etagère Single.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.51276154"
+     inkscape:cx="1143.8065"
+     inkscape:cy="531.43611"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-8.7707989,-8.5634167)">
+    <rect
+       style="fill:#ffffff;stroke:#ff0000;stroke-width:0.0999999;stroke-miterlimit:1.8;paint-order:stroke fill markers"
+       id="rect1-0"
+       width="49.900002"
+       height="29.9"
+       x="35.294556"
+       y="227.25916" />
+    <rect
+       style="fill:#ffffff;stroke:#ff0000;stroke-width:0.0999999;stroke-miterlimit:1.8;paint-order:stroke fill markers"
+       id="rect1-5"
+       width="49.900002"
+       height="29.9"
+       x="93.640793"
+       y="226.84262" />
+    <path
+       id="rect1-3"
+       style="fill:#ffffff;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:1.8;paint-order:stroke fill markers"
+       inkscape:label="rect1"
+       d="m 55.182343,88.313246 v 1.993677 h -0.001 v 0.987536 H 35.279162 v 1.924947 h 0.002 V 219.20735 h 20.100041 v -29.89998 h 2.79982 v 29.89998 h 54.100127 v -29.89998 h 2.79985 v 29.89998 h 20.10029 V 93.219406 h 0.0227 v -1.924947 h -19.9229 v -0.987536 h -0.0248 v -1.993677 z" />
+    <path
+       id="rect1"
+       style="fill:#ffffff;stroke:#ff0000;stroke-width:0.0999999;stroke-miterlimit:1.8;paint-order:stroke fill markers"
+       d="m 36.776381,13.065111 v 19.90007 29.891732 h -0.009 v 19.91661 h 99.916909 v -19.91661 h -0.008 V 32.965181 13.065111 Z" />
+    <rect
+       style="fill:#ffffff;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:1.8;paint-order:stroke fill markers"
+       id="rect2"
+       width="59.599998"
+       height="2.9000001"
+       x="53.476334"
+       y="46.464935" />
+  </g>
+</svg>

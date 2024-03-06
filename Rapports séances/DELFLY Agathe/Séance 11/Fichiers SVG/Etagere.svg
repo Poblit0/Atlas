@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="243.94501mm"
+   height="265.784mm"
+   viewBox="0 0 243.94501 265.784"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="Etagère.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.72515432"
+     inkscape:cx="625.38413"
+     inkscape:cy="521.95786"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-4.9999998,-8.2198546)">
+    <rect
+       style="fill:#ffffff;stroke:#ff0000;stroke-width:0.0999999;stroke-miterlimit:1.8;paint-order:stroke fill markers"
+       id="rect1-0"
+       width="49.900002"
+       height="29.9"
+       x="16.707058"
+       y="241.20299" />
+    <rect
+       style="fill:#ffffff;stroke:#ff0000;stroke-width:0.0999999;stroke-miterlimit:1.8;paint-order:stroke fill markers"
+       id="rect1-5"
+       width="49.900002"
+       height="29.9"
+       x="75.053276"
+       y="240.78645" />
+    <rect
+       style="fill:#ffffff;stroke:#ff0000;stroke-width:0.0999999;stroke-miterlimit:1.8;paint-order:stroke fill markers"
+       id="rect1-57"
+       width="49.900002"
+       height="29.9"
+       x="132.29028"
+       y="241.20299" />
+    <rect
+       style="fill:#ffffff;stroke:#ff0000;stroke-width:0.0999999;stroke-miterlimit:1.8;paint-order:stroke fill markers"
+       id="rect1-5-0"
+       width="49.900002"
+       height="29.9"
+       x="190.63641"
+       y="240.78645" />
+    <path
+       id="rect1-3"
+       style="fill:#ffffff;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:1.8;paint-order:stroke fill markers"
+       inkscape:label="rect1"
+       d="m 36.594852,102.25719 v 1.99369 h -0.001 v 0.98754 H 16.691671 v 1.92496 h 0.0021 v 125.98794 h 20.100035 v -29.89998 h 2.799829 v 29.89998 h 54.100053 v -29.89998 h 2.79983 v 29.89998 H 116.59365 V 107.16338 h 0.0227 v -1.92496 H 96.693508 v -0.98754 h -0.0248 v -1.99369 z" />
+    <path
+       id="rect1-2"
+       style="fill:#ffffff;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:1.8;paint-order:stroke fill markers"
+       inkscape:label="rect1"
+       d="m 143.21775,102.25719 v 1.99369 h -0.001 v 0.98754 h -19.90218 v 1.92496 h 0.002 v 125.98794 h 20.10003 v -29.89998 h 2.79983 v 29.89998 h 54.10006 v -29.89998 h 2.79983 v 29.89998 h 20.10006 V 107.16338 h 0.0227 v -1.92496 H 203.3164 v -0.98754 h -0.0248 v -1.99369 z" />
+    <path
+       id="rect1"
+       style="fill:#ffffff;stroke:#ff0000;stroke-width:0.0999999;stroke-miterlimit:1.8;paint-order:stroke fill markers"
+       d="m 17.442442,18.973763 v 19.90007 29.891724 h -0.009 v 19.91661 h 99.916898 v -19.91661 h -0.008 V 38.873833 18.973763 Z" />
+    <rect
+       style="fill:#ffffff;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:1.8;paint-order:stroke fill markers"
+       id="rect2"
+       width="59.599998"
+       height="2.9000001"
+       x="34.142395"
+       y="52.373585" />
+    <path
+       id="rect1-9"
+       style="fill:#ffffff;stroke:#ff0000;stroke-width:0.0999999;stroke-miterlimit:1.8;paint-order:stroke fill markers"
+       d="m 124.71272,20.068357 v 19.90007 29.89172 h -0.009 v 19.91661 h 99.9169 v -19.91661 h -0.008 v -29.89172 -19.90007 z" />
+    <rect
+       style="fill:#ffffff;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:1.8;paint-order:stroke fill markers"
+       id="rect2-0"
+       width="59.599998"
+       height="2.9000001"
+       x="141.41267"
+       y="53.468178" />
+  </g>
+</svg>

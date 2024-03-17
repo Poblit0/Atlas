@@ -7,5 +7,5 @@
 
 
 ## Actionner les servomoteurs
-
-
+- [Site internet](https://jetsonhacks.com/2019/07/22/jetson-nano-using-i2c/), où se trouve également une vidéo pour comprendre l'utilisation des servomoteurs à travers un bus I2C et le PCA9685
+- [Seconde vidéo](https://www.youtube.com/watch?v=8YKAtpPSEOk&ab_channel=PaulMcWhorter), permettant de prendre en mains les servomoteurs avec le même matériel

@@ -2,6 +2,7 @@
 
 2nde [Vidéo tutorielle](https://www.youtube.com/watch?v=8YKAtpPSEOk&ab_channel=PaulMcWhorter) pour tenter de contourner l'erreur du 1er lien
 
+
 Précisions :
 - Le joystick de droite pilote la roue droite, respectivement à gauche, ce qui explique pourquoi le robot ne se déplace que de cette manière, car je filme avec mon téléphone dans la main gauche.
 - Le joystick est très sensible, ce qui explique pourquoi de légers mouvements font bouger le robot si rapidemment.

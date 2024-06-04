@@ -1,1 +1,1 @@
-# Ce répertoire sera complété lorsque le code sera entièrement terminé
+# Codes de fonctionnement
